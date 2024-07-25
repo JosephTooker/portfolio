@@ -2393,6 +2393,12 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+			.image.fit .moveSmart {
+				height: 50%;
+				width: 50%;
+				margin-left: 80px;
+				border: 1px solid black;
+			}
 
 /* List */
 
